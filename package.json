@@ -1,6 +1,6 @@
 {
   "name": "lifesim-mcp-app",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "An xmcp application with tool syntax",
   "engines": {
     "node": ">=20.0.0"
